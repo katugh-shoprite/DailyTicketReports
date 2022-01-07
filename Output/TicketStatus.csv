@@ -1,0 +1,191 @@
+Agent,Ticket ID,Service Level,Changed On,Service Category,Incident Category,Object,Origin,Case Title,Status,Priority,Created On,Completion Date
+Alize Feris,1294195,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,EDIBLE AND NON-EDIBLE GROCERIES,Checkers Responsive Web,Aquelle water complaint,In Process,Normal,05/01/2022,#
+Alize Feris,1294272,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,FRUIT AND VEG,Checkers Responsive Web,Bad bananas,In Process,Normal,05/01/2022,#
+Alize Feris,1293538,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Checkers Responsive Web,Cheese complaint,In Process,Normal,05/01/2022,#
+Alize Feris,1295458,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,U BRAND,Consumer Email – Shoprite,Complaint: Instant Noodles,In Process,Normal,06/01/2022,#
+Alize Feris,1294361,_EMAIL_SLA,07/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Checkers Responsive Web,Crystal valley milk complaint,In Process,Normal,06/01/2022,#
+Alize Feris,1295484,_EMAIL_SLA,07/01/2022,ENQUIRY,PRODUCT,GENERAL MERCHANDISE,Checkers Responsive Web,Dinner set enquiry,In Process,Normal,06/01/2022,#
+Alize Feris,1284196,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,PERISHABLE,Checkers Responsive Web,Off perishable items,In Process,Normal,03/01/2022,06/01/2022
+Alize Feris,1288464,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,STAFF GENERAL,Usave Responsive Web,Poor customer experience,In Process,Immediate,04/01/2022,06/01/2022
+Alize Feris,1294335,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,DELI,Consumer Email – Shoprite,Poor quality deli food,In Process,Normal,06/01/2022,#
+Alize Feris,1285159,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,REFUND/EXCHANGE,Checkers Responsive Web,Refusal to refund or assist,In Process,Normal,03/01/2022,06/01/2022
+Alize Feris,1295407,_EMAIL_SLA,06/01/2022,ENQUIRY,PRODUCT,GENERAL MERCHANDISE,Checkers Responsive Web,Toy enquiry,In Process,Normal,06/01/2022,#
+Brandon Anthony,1296302,_TELE_SLA,06/01/2022,COMPLAINT,FINANCIAL SERVICES,GIFT CARDS,Telephony,Gift Card Balance,In Process,Normal,06/01/2022,#
+Brandon Anthony,1294827,_TELE_SLA,06/01/2022,COMPLAINT,FINANCIAL SERVICES,STAMP CLUB,Telephony,No Payout received,In Process,Normal,06/01/2022,#
+Brandon Anthony,1295527,_TELE_SLA,06/01/2022,COMPLAINT,POINT OF SALE,ELECTRONIC PAYMENT,Telephony,Overcharged,In Process,Normal,06/01/2022,#
+Brandon Anthony,1293451,_SOCIAL_SLA,06/01/2022,COMPLAINT,ADVERTISING,PRODUCT ISSUE,Facebook – Checkers ZA,Poor Customer Experience,In Process,Normal,05/01/2022,#
+Brandon Anthony,1293627,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,MANAGEMENT,Facebook – Shoprite ZA,Poor Customer Experience,In Process,Immediate,06/01/2022,#
+Brandon Anthony,1293228,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Facebook – Shoprite ZA,Poor Customer Experience,In Process,Immediate,05/01/2022,#
+Brandon Anthony,1292559,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Twitter - Checkers ZA,Poor Customer Experience,In Process,Immediate,05/01/2022,#
+Brandon Anthony,1291503,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,GENERAL MERCHANDISE,Facebook – Checkers ZA,Poor Customer Experience,In Process,Normal,05/01/2022,#
+Brandon Anthony,1296023,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,EDIBLE AND NON-EDIBLE GROCERIES,Facebook – Shoprite ZA,Poor Quality Product,In Process,Normal,06/01/2022,#
+Brandon Anthony,1297141,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PERISHABLE,Telephony,Poor Quality Product,In Process,Normal,06/01/2022,#
+Carol-Lynne Filemon,1289210,_EMAIL_SLA,06/01/2022,ENQUIRY,FINANCIAL SERVICES,MONEY MARKET ACCOUNT,Shoprite Responsive Web,link money market account to XS card,In Process,Low,04/01/2022,05/01/2022
+Chad Flandorp,1192840,_TELE_SLA,06/01/2022,COMPLAINT,OTHER,STAFF RELATED MATTERS,Telephony,Management complaint,In Process,Low,10/12/2021,06/01/2022
+Chantal Norman,1288924,_TELE_SLA,05/01/2022,ENQUIRY,PRODUCT,PRIVATE LABELS,Telephony,Cooking instructions - Cape Point Kingklip fillet and Hake P,In Process,Normal,04/01/2022,#
+Craig Waterloo,1293393,_TELE_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Telephony,Complaint : cashier not paying attention,In Process,Immediate,05/01/2022,#
+Craig Waterloo,1295539,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PERISHABLE,Telephony,Complaint Mighty meat Polony,In Process,Normal,06/01/2022,#
+Craig Waterloo,1297044,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,CHECKERS HOUSEBRAND,Telephony,Housebrand Peanuts off,In Process,Normal,06/01/2022,#
+Craig Waterloo,1297224,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,STOCK AVAILABILITY,Telephony,Looking for Push Bike - 10104506,In Process,Normal,06/01/2022,#
+Craig Waterloo,1286206,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Pure refresh Juice  rotten,In Process,Normal,03/01/2022,#
+Craig Waterloo,1296975,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Weevils in Pasta,In Process,Normal,06/01/2022,#
+Elisha Claassen,1296834,_TELE_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,FOREIGN OBJECT,Telephony,FOREIGN OBJECT,In Process,Normal,06/01/2022,#
+Elisha Claassen,1284108,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,HOME AND WEAR,Telephony,Poor Quality Product,In Process,Normal,03/01/2022,#
+Elisha Claassen,1293210,_TELE_SLA,06/01/2022,ENQUIRY,CELLULAR,SIM CARD/RICA,Telephony,Stock availability,In Process,Low,05/01/2022,06/01/2022
+Elisha Claassen,1297009,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,STOCK AVAILABILITY,Telephony,STOCK AVAILABILITY,In Process,Normal,06/01/2022,#
+Estrolita September,1283259,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,PERISHABLE,Consumer Email – Checkers,Bread is mouldy,In Process,Normal,02/01/2022,06/01/2022
+Estrolita September,1294048,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Checkers Responsive Web,Complaint about Products,In Process,Normal,05/01/2022,#
+Estrolita September,1287105,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,MANAGEMENT,Consumer Email – Shoprite,Customer asked to leave the store because of what she was we,In Process,Immediate,03/01/2022,#
+Estrolita September,1291477,_EMAIL_SLA,06/01/2022,COMPLAINT,POINT OF SALE,ELECTRONIC PAYMENT,Checkers Responsive Web,Description of Goods Purchased,In Process,Normal,05/01/2022,#
+Estrolita September,1294662,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Consumer Email – Checkers,Faulty Turkish Delights,In Process,Normal,06/01/2022,#
+Estrolita September,1172160,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,EDIBLE AND NON-EDIBLE GROCERIES,Checkers Responsive Web,Goldcrest pure honey,In Process,Normal,05/12/2021,07/12/2021
+Estrolita September,1291826,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,FRUIT AND VEG,Checkers Feature Phone,Lemons are off,In Process,Normal,05/01/2022,#
+Estrolita September,1295089,_EMAIL_SLA,06/01/2022,COMPLAINT,OTHER,MISCELLANEOUS,Checkers Responsive Web,Rubbish collection and water dispensing to unregistered car,In Process,Low,06/01/2022,#
+Estrolita September,1290036,_EMAIL_SLA,07/01/2022,COMPLAINT,SERVICE,CASHIER,Usave Responsive Web,Rude cashier,In Process,Immediate,04/01/2022,05/01/2022
+Estrolita September,1295140,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,PERISHABLE,Usave Responsive Web,Spoiled Eggs,In Process,Normal,06/01/2022,#
+Estrolita September,1294783,_EMAIL_SLA,06/01/2022,ENQUIRY,PRODUCT,GENERAL MERCHANDISE,Consumer Email – Checkers,Stock Availability,In Process,Normal,06/01/2022,#
+Estrolita September,1294941,_EMAIL_SLA,06/01/2022,ENQUIRY,FINANCIAL SERVICES,VOUCHERS,Shoprite Responsive Web,Vouchers,In Process,Low,06/01/2022,#
+Ilhaam Hofstander,1292152,_TELE_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,ILLNESS,Telephony,Child Fell Ill - Snowballs Consumed,In Process,Normal,05/01/2022,06/01/2022
+Ilhaam Hofstander,1294570,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,LONG QUEUES,Twitter - Checkers ZA,Complaint - Long Queues,In Process,Immediate,06/01/2022,06/01/2022
+Ilhaam Hofstander,1296719,_SOCIAL_SLA,06/01/2022,ENQUIRY,PRODUCT,STOCK AVAILABILITY,Facebook – Checkers ZA,Locate Stock - Spare Parts,In Process,Normal,06/01/2022,#
+Ilhaam Hofstander,1296200,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Facebook – Shoprite ZA,Poor Customer Experience,In Process,Immediate,06/01/2022,#
+Ilhaam Hofstander,1296713,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Facebook – Shoprite ZA,Poor Customer Experience - Cashier,In Process,Immediate,06/01/2022,#
+Ilhaam Hofstander,1294411,_SOCIAL_SLA,07/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Facebook – Checkers ZA,Poor Quality Product - Freshmark Coleslaw,In Process,Normal,06/01/2022,06/01/2022
+Ilhaam Hofstander,1296056,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Facebook – Shoprite ZA,Poor Quality Product - Padkos Raw Nuts,In Process,Normal,06/01/2022,#
+Ilhaam Hofstander,1295224,_SOCIAL_SLA,07/01/2022,COMPLAINT,PRODUCT,GENERAL MERCHANDISE,Twitter - Checkers ZA,Product Complaint - Fly Repellent,In Process,Normal,06/01/2022,06/01/2022
+Jamie September,1296958,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,FRONTLINE,Facebook – Checkers ZA,Complaint - Long queues and bad service - CH FB,In Process,Immediate,06/01/2022,#
+Jamie September,1293597,_TELE_SLA,06/01/2022,COMPLAINT,FINANCIAL SERVICES,SASSA PAYOUTS,Telephony,Complaint - SASSA Payout,In Process,Normal,06/01/2022,#
+Jamie September,1296953,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Quality of Chicken FYI,In Process,Normal,06/01/2022,#
+Jamie September,1294566,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,PRIVATE LABELS,Telephony,Simple Truth Lactose Free Cheddar Cheese 300g,In Process,Normal,06/01/2022,#
+Julien Mafouta,1295418,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,STOCK AVAILABILITY,Telephony,Stock availability enquiry,In Process,Normal,06/01/2022,#
+Keturah Rangasami,1294507,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,DELI,Twitter - Checkers ZA,Dissatisfied with quality,In Process,Normal,06/01/2022,#
+Keturah Rangasami,1289511,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,SELL BY DATE,Twitter - Shoprite ZA,Expired,In Process,Normal,04/01/2022,#
+Keturah Rangasami,1293575,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,SELL BY DATE,Transfer,Expired,In Process,Normal,05/01/2022,#
+Keturah Rangasami,1295893,_SOCIAL_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,ILLNESS,Facebook – Checkers ZA,Maggots in chicken - claims illness,In Process,Normal,06/01/2022,#
+Keturah Rangasami,1294576,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRICE,INCORRECTLY PRICED,Facebook – Shoprite ZA,Overcharged at till,In Process,Normal,06/01/2022,#
+Keturah Rangasami,1294573,_SOCIAL_SLA,07/01/2022,COMPLAINT,SERVICE,STAFF GENERAL,Twitter - Checkers ZA,Poor Customer Experience,In Process,Immediate,06/01/2022,06/01/2022
+Keturah Rangasami,1296439,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,DELI,Facebook – Checkers ZA,Poor Quality,In Process,Normal,06/01/2022,#
+Keturah Rangasami,1294571,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,PERISHABLE,Facebook – Checkers ZA,Spoiled products,In Process,Normal,06/01/2022,#
+Keturah Rangasami,1296317,_SOCIAL_SLA,06/01/2022,ENQUIRY,PRODUCT,STOCK AVAILABILITY,Facebook – Shoprite ZA,stock info,In Process,Normal,06/01/2022,#
+Leander Foster1,1291031,_TELE_SLA,05/01/2022,COMPLAINT,PRODUCT,EDIBLE AND NON-EDIBLE GROCERIES,Telephony,Complaint : Rancid Maize Meal,In Process,Normal,05/01/2022,#
+Leander Foster1,1268165,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,APPLIANCES,Telephony,Enquiry : Platinum Blender Rubber Seal,In Process,Normal,28/12/2021,04/01/2022
+Leander Foster1,1291706,_TELE_SLA,05/01/2022,COMPLAINT,FOOD SAFETY,FOREIGN OBJECT,Telephony,Foreign Object - Tooth broke after eating chips - suspect a,In Process,Normal,05/01/2022,#
+Lebo Bloem,1291210,_SOCIAL_SLA,06/01/2022,COMPLAINT,MARKETING CAMPAIGN,COMPETITION,Facebook – Shoprite ZA,Competition Enquiry,In Process,Normal,05/01/2022,#
+Lebo Bloem,1294897,_TELE_SLA,06/01/2022,ENQUIRY,FINANCIAL SERVICES,GIFT CARDS,Telephony,Gift Card balance,In Process,Low,06/01/2022,#
+Lebo Bloem,1292880,_SOCIAL_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,ILLNESS,Twitter - Shoprite ZA,Illness after consumption,In Process,Normal,05/01/2022,#
+Lebo Bloem,1293596,_TELE_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Telephony,Poor customer service,In Process,Immediate,06/01/2022,#
+Lebo Bloem,1295226,_TELE_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Telephony,Poor customer service,In Process,Immediate,06/01/2022,#
+Lebo Bloem,1289800,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Poor quality product,In Process,Normal,04/01/2022,#
+Lebo Bloem,1285352,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Poor Quality product,In Process,Normal,03/01/2022,06/01/2022
+Lulama Qononda,1297315,_TELE_SLA,07/01/2022,COMPLAINT,PRODUCT,SELL BY DATE,Telephony,Expired Product,Open,Normal,07/01/2022,#
+Meagan Hildebrand,1296190,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,SELL BY DATE,Telephony,Expired juice purchased,In Process,Normal,06/01/2022,#
+Meagan Hildebrand,1295578,_TELE_SLA,06/01/2022,COMPLAINT,FINANCIAL SERVICES,GLOBAL MONEY TRANSFERS,Telephony,Funds not available,In Process,Normal,06/01/2022,#
+Meagan Hildebrand,1293336,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,MEAT MARKET,Facebook – Checkers ZA,Off chicken sosaties,In Process,Normal,05/01/2022,06/01/2022
+Meagan Hildebrand,1282598,_TELE_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,FOREIGN OBJECT,Telephony,Sharp pieces in biscuits,In Process,Normal,02/01/2022,#
+Meagan Hildebrand,1293192,_TELE_SLA,06/01/2022,COMPLAINT,POINT OF SALE,ELECTRONIC PAYMENT,Telephony,Transaction declined but funds deducted,In Process,Normal,05/01/2022,#
+Nadeem Salie,1295632,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,MEAT MARKET,Telephony,Meat market complaint,In Process,Normal,06/01/2022,06/01/2022
+Nadeem Salie,1296984,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,BAKERY,Telephony,Poor quality product,In Process,Normal,06/01/2022,06/01/2022
+Nadeem Salie,1294879,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,GENERAL MERCHANDISE,Facebook – Shoprite ZA,Product complaint,In Process,Normal,06/01/2022,#
+Nomi Mgojo,1295664,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,STOCK AVAILABILITY,Telephony,Chair stock availability,In Process,Normal,06/01/2022,#
+Nomi Mgojo,1296430,_SOCIAL_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,ILLNESS,Twitter - Shoprite ZA,Customer ill after consumption,In Process,Normal,06/01/2022,#
+Nomi Mgojo,1295821,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,NO STOCK: EDIBLE & NON-EDIBLE GROCERIES,Telephony,No stock,In Process,Normal,06/01/2022,#
+Nomi Mgojo,1293970,_SOCIAL_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Twitter - Shoprite ZA,Poor customer experience,In Process,Immediate,06/01/2022,#
+Nomi Mgojo,1291886,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Yogurt cuddled,In Process,Normal,05/01/2022,#
+Renate Coetzee,1289784,_EMAIL_SLA,05/01/2022,ENQUIRY,PRODUCT,PRIVATE LABELS,Consumer Email – Checkers,Crystal Valley - COTTAGE CHEESE: Fat free,In Process,Normal,04/01/2022,#
+Renate Coetzee,1294452,_EMAIL_SLA,06/01/2022,COMPLAINT,FOOD SAFETY,FOREIGN OBJECT,Consumer Email – Shoprite,Foriegn object in bread,In Process,Normal,06/01/2022,06/01/2022
+Renate Coetzee,1295500,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,CRIME VICTIM,Shoprite Responsive Web,Money taken from wallet,In Process,Immediate,06/01/2022,#
+Renate Coetzee,1287074,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,MEAT MARKET,Checkers Responsive Web,Off meat,In Process,Normal,03/01/2022,04/01/2022
+Renate Coetzee,1294365,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,STAFF GENERAL,Checkers Responsive Web,Poor customer experience,In Process,Immediate,06/01/2022,#
+Renate Coetzee,1295814,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,CONTRACT SECURITY,Checkers Responsive Web,Poor customer experience,In Process,Immediate,06/01/2022,#
+Renate Coetzee,1294273,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,MONEY MARKET,Shoprite Responsive Web,Poor customer experience,In Process,Normal,06/01/2022,#
+Renate Coetzee,1294261,_EMAIL_SLA,06/01/2022,COMPLAINT,PRICE,PI LABEL,Consumer Email – Shoprite,Scanned more than PI label,In Process,Normal,05/01/2022,#
+Ryan Sylvester,1296964,_TELE_SLA,06/01/2022,COMPLAINT,PRICE,PI LABEL,Telephony,Incorrectly charged,In Process,Normal,06/01/2022,#
+Ryan Sylvester,1297143,_TELE_SLA,06/01/2022,COMPLAINT,OTHER,STAFF RELATED MATTERS,Telephony,Poor Customer Experience,In Process,Normal,06/01/2022,#
+Ryan Sylvester,1296304,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,DELI,Facebook – Checkers ZA,Poor Quality Product,In Process,Normal,06/01/2022,#
+Ryan Sylvester,1296626,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,CHECKERS HOUSEBRAND,Telephony,Poor Quality Product,In Process,Normal,06/01/2022,#
+Ryan Sylvester,1270599,_EMAIL_SLA,06/01/2022,COMPLAINT,PRODUCT,CHECKERS HOUSEBRAND,Checkers Responsive Web,Poor Quality Product,In Process,Normal,29/12/2021,#
+Ryan Sylvester,1294149,_SOCIAL_SLA,06/01/2022,COMPLAINT,PRODUCT,FRUIT AND VEG,Facebook – Checkers ZA,Poor Quality Product,In Process,Normal,06/01/2022,06/01/2022
+Ryan Sylvester,1295109,_SOCIAL_SLA,06/01/2022,ENQUIRY,FINANCIAL SERVICES,ACCOUNT PAYMENTS,Facebook – Shoprite ZA,Reprint request,In Process,Low,06/01/2022,#
+Shandre Permall,1290647,_EMAIL_SLA,06/01/2022,COMPLAINT,FINANCIAL SERVICES,MONEY TRANSFERS (RSA),Shoprite Responsive Web,Complaint: Money Transfer ID Dispute,In Process,Normal,04/01/2022,#
+Shandre Permall,1295101,_TELE_SLA,06/01/2022,ENQUIRY,PRODUCT,PRIVATE LABELS,Telephony,Product Spare Part Enquiry: Bush Baby Gas Burner Braai,In Process,Normal,06/01/2022,#
+Sisanda Nyawulu1,1294728,_TELE_SLA,06/01/2022,ENQUIRY,OTHER,MISCELLANEOUS,Telephony,Community Board Request,In Process,Low,06/01/2022,#
+Sisanda Nyawulu1,1293571,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,REFUND/EXCHANGE,Telephony,Curtain Rail Return,In Process,Normal,05/01/2022,#
+Sisanda Nyawulu1,1293264,_TELE_SLA,06/01/2022,COMPLAINT,PRODUCT,PRIVATE LABELS,Telephony,Ottimo Appliances- No Stock,In Process,Normal,05/01/2022,#
+Sisanda Nyawulu1,1296546,_TELE_SLA,06/01/2022,COMPLAINT,STORE,ENVIRONMENT,Telephony,The store is very dirty,In Process,Immediate,06/01/2022,#
+Yanelisa Gulwa,1296785,_EMAIL_SLA,06/01/2022,COMPLAINT,SERVICE,CASHIER,Shoprite Responsive Web,Harassment (Prevented from buying),In Process,Immediate,06/01/2022,#
+Not assigned,1297726,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,[Email Security] Messages on hold for consumer@shoprite.co.z,Open,Normal,06/01/2022,#
+Not assigned,1297797,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,[Email Security] Messages on hold for consumer@shoprite.co.z,Open,Normal,07/01/2022,#
+Not assigned,1297784,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,[Email Security] Messages on hold for consumerc@shoprite.co.,Open,Normal,07/01/2022,#
+Not assigned,1297794,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,📰 HEADLINES: Fine foray | FTA slam | Super Champ | Top Spar,Open,Normal,07/01/2022,#
+Not assigned,1297732,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,A new year treat for you! 🤩🤩🤩,Open,Normal,06/01/2022,#
+Not assigned,1296271,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Shoprite Responsive Web,Access to the liquor store,Open,Normal,06/01/2022,#
+Not assigned,1297689,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,Acknowledgement of Donation,Open,Normal,06/01/2022,#
+Not assigned,1297802,_EMAIL_SLA,07/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,Aramex,Open,Normal,07/01/2022,#
+Not assigned,1296507,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Usave Responsive Web,Bad service always,Open,Normal,06/01/2022,#
+Not assigned,1297590,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Usave Responsive Web,Bus tickets,Open,Normal,06/01/2022,#
+Not assigned,1297585,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,Card replacement,Open,Normal,06/01/2022,#
+Not assigned,1297476,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Shoprite Responsive Web,Cellphone update,Open,Normal,06/01/2022,#
+Not assigned,1297594,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Shoprite Responsive Web,Champion wors,Open,Normal,06/01/2022,#
+Not assigned,1297608,_EMAIL_SLA,07/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Change my number,Open,Normal,07/01/2022,#
+Not assigned,1296675,_EMAIL_SLA,06/01/2022,TRANSFER,TRANSFER,TRANSFER,Consumer Email – Checkers,"Checkers Hyperama Sandown Road, manager kept my paid parcel",Open,Normal,06/01/2022,#
+Not assigned,1296097,_EMAIL_SLA,06/01/2022,TRANSFER,TRANSFER,TRANSFER,Consumer Email – Checkers,Choc pillows,Open,Normal,06/01/2022,#
+Not assigned,1297236,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Complain,Open,Normal,06/01/2022,#
+Not assigned,1296904,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Complaint,Open,Normal,06/01/2022,#
+Not assigned,1297105,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,complaint re beer quality,Open,Normal,06/01/2022,#
+Not assigned,1296236,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Complaints,Open,Normal,06/01/2022,#
+Not assigned,1297472,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,Correct cell number,Open,Normal,06/01/2022,#
+Not assigned,1297659,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Shoprite Responsive Web,Customer Complaint Of Bad Service,Open,Normal,06/01/2022,#
+Not assigned,1297545,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,Customer service,Open,Normal,06/01/2022,#
+Not assigned,1296444,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Defective product and return,Open,Normal,06/01/2022,#
+Not assigned,1297058,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,DOXA INVESTMENTS,Open,Normal,06/01/2022,#
+Not assigned,1296319,_TELE_SLA,06/01/2022,IRRELEVANT,IRRELEVANT,IRRELEVANT,Telephony,Dropped call,Open,Low,06/01/2022,#
+Not assigned,1296865,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Email,Open,Normal,06/01/2022,#
+Not assigned,1297599,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Emmerentia Food Deli,Open,Normal,06/01/2022,#
+Not assigned,1296935,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Expired chocolate,Open,Normal,06/01/2022,#
+Not assigned,1297281,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Usave Responsive Web,Expired food,Open,Normal,06/01/2022,#
+Not assigned,1297821,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,Expired stock purchased !!!,Open,Normal,07/01/2022,#
+Not assigned,1297734,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Expired Viennas,Open,Normal,06/01/2022,#
+Not assigned,1297815,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Extra revenue from your app by adding games & quiz,Open,Normal,07/01/2022,#
+Not assigned,1297750,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Facebook Management,Open,Normal,06/01/2022,#
+Not assigned,1297733,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Forgot pin,Open,Normal,06/01/2022,#
+Not assigned,1297607,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Injury in store,Open,Normal,06/01/2022,#
+Not assigned,1297705,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Injury in store,Open,Normal,06/01/2022,#
+Not assigned,1297335,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Inyala with soap inside,Open,Normal,06/01/2022,#
+Not assigned,1297055,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Shoprite Responsive Web,Item not in my bag,Open,Normal,06/01/2022,#
+Not assigned,1296757,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,"Long queues, few cashiers",Open,Normal,06/01/2022,#
+Not assigned,1297537,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,Lost card,Open,Normal,06/01/2022,#
+Not assigned,1297771,_EMAIL_SLA,07/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Lost number,Open,Normal,07/01/2022,#
+Not assigned,1296735,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Money market,Open,Normal,06/01/2022,#
+Not assigned,1297751,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Feature Phone,Moneymarket account,Open,Normal,06/01/2022,#
+Not assigned,1297302,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,New xtra savings card,Open,Normal,06/01/2022,#
+Not assigned,1297393,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,No name given in the Subject line,Open,Normal,06/01/2022,#
+Not assigned,1297675,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,No name given in the Subject line,Open,Normal,06/01/2022,#
+Not assigned,1297742,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,No name given in the Subject line,Open,Normal,06/01/2022,#
+Not assigned,1297767,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,No name given in the Subject line,Open,Normal,07/01/2022,#
+Not assigned,1297753,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,No name given in the Subject line,Open,Normal,07/01/2022,#
+Not assigned,1297839,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Shoprite,No name given in the Subject line,Open,Normal,07/01/2022,#
+Not assigned,1297243,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Old stock on shelves,Open,Normal,06/01/2022,#
+Not assigned,1297094,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,Pineapple Aloe Vera 1.5 litre drink,Open,Normal,06/01/2022,#
+Not assigned,1297438,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Plastic Bag Price,Open,Normal,06/01/2022,#
+Not assigned,1297026,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Platters,Open,Normal,06/01/2022,#
+Not assigned,1296789,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Usave Responsive Web,Poor service,Open,Normal,06/01/2022,#
+Not assigned,1297201,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Feature Phone,Price discrepancy,Open,Normal,06/01/2022,#
+Not assigned,1296085,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,queues,Open,Normal,06/01/2022,#
+Not assigned,1296858,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Responsive Web,Quotation for insurance claim after goods in freezer went ba,Open,Normal,06/01/2022,#
+Not assigned,1297127,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Raising a hand if problem exists at the tills,Open,Normal,06/01/2022,#
+Not assigned,1297440,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Shoprite Responsive Web,Re; chicken rotten,Open,Normal,06/01/2022,#
+Not assigned,1297793,_EMAIL_SLA,07/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,RE: EB Food Malaysia - Frozen Food Supplier,Open,Normal,07/01/2022,#
+Not assigned,1297139,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Re: M. Reinke,Open,Normal,06/01/2022,#
+Not assigned,1297080,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Re: M. Reinke,Open,Normal,06/01/2022,#
+Not assigned,1297693,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Consumer Email – Checkers,Re: Order Number 19849601,Open,Normal,06/01/2022,#
+Not assigned,1296220,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Receipt recovery,Open,Normal,06/01/2022,#
+Not assigned,1297694,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Request and regards about vouchers,Open,Normal,06/01/2022,#
+Not assigned,1297527,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Return GOLDI,Open,Normal,06/01/2022,#
+Not assigned,1297333,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Checkers Responsive Web,Rotten fish,Open,Normal,06/01/2022,#
+Not assigned,1297563,_EMAIL_SLA,06/01/2022,COMPLAINT,Not assigned,Not assigned,Shoprite Responsive Web,Rotten ham,Open,Normal,06/01/2022,#
+Not assigned,1297696,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Usave Responsive Web,Seeking employment,Open,Normal,06/01/2022,#
+Not assigned,1297307,_EMAIL_SLA,06/01/2022,Not assigned,Not assigned,Not assigned,Usave Responsive Web,Unpleasant experience,Open,Normal,06/01/2022,#
+Not assigned,1296140,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Usave,Open,Normal,06/01/2022,#
+Not assigned,1297028,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Shoprite Responsive Web,Voucher,Open,Normal,06/01/2022,#
+Not assigned,1296458,_EMAIL_SLA,06/01/2022,ENQUIRY,Not assigned,Not assigned,Checkers Feature Phone,Voucher spending,Open,Normal,06/01/2022,#
+Not assigned,1296679,_EMAIL_SLA,06/01/2022,TRANSFER,TRANSFER,TRANSFER,Consumer Email – Checkers,Website form not working,Open,Normal,06/01/2022,#
