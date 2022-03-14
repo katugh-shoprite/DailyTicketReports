@@ -24,6 +24,7 @@ TicketStatus <- SAPAnalyticsReport %>%
          Status, Priority, `Created On`, `Completion Date`)
 
 UnassignedTickets <- SAPAnalyticsReport %>%
+  filter(`Ticket Type` != "Employee Support Ticket") %>%
   select(Agent, `Ticket ID`, `Ticket Type`, `Changed On`, `Service Category`, `Incident Category`, Object, Origin, `Case Title`,
          Status, Priority, `Created On`, `Completion Date`)
 
